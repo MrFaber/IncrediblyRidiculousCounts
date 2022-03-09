@@ -4,7 +4,7 @@ IRC is a new 1.12.2 Minecraft Modpack Project, which aims to be a kitchensink mo
 FEATURES:
 Questing: Small chained, consistent and challenging Questline with almost absurd item-demands to complete (e.g. 150k Cobble) (implemented via FTBQuests)
 
-EMC integration done right: A less overpowered and minimal invasive ProjectE implementation with respect to the core mechanics… without nerfed emc values or without substituitive EMC Mods. 
+EMC integration done right: A less overpowered and minimal invasive ProjectE implementation with respect to the core mechanics… without nerfed emc values or without substituitive EMC Mods. Not all EMC Exploits fixed, but at least many many of the best known do nothing (useful) and a very few are intentionally left open.
 
 Bring the Mine back in Minecraft: Less ores spawn in worldgen, you won’t be overwhelmed by ten different ores every five blocks. COFH World controls much of the Ore Gen, providing a balanced experience which aims at the moment of making you happy if you find ores. Additionally, a few custom features like geodes and fractals have been added. 
 

@@ -8,7 +8,7 @@ EMC integration done right: A less overpowered and minimal invasive ProjectE imp
 
 Bring the Mine back in Minecraft: Less ores spawn in worldgen, you won’t be overwhelmed by ten different ores every five blocks. COFH World controls much of the Ore Gen, providing a balanced experience which aims at the moment of making you happy if you find ores. Additionally, a few custom features like geodes and fractals have been added. 
 
-Make Villages great again: Sparse villages with ridicolous distance in between. You spawn in a village and that might turn out as a bonus, but finding the next one could be challenging.
+Make Villages great again: Sparse villages with ridicolous distance in between. You spawn in a village and that might turn out to be a bonus, but finding the next one could be challenging.
 
 Make Forestry Beehives great again: Rare beehive spawns with a bit more distance in between
 

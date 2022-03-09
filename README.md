@@ -8,7 +8,7 @@ EMC integration done right: A less overpowered and minimal invasive ProjectE imp
 
 Bring the Mine back in Minecraft: Less ores spawn in worldgen, you won’t be overwhelmed by ten different ores every five blocks. COFH World controls much of the Ore Gen, providing a balanced experience which aims at the moment of making you happy if you find ores. Additionally, a few custom features like geodes and fractals have been added. 
 
-Make Villages great again: Sparse villages with ridicolous distance in between
+Make Villages great again: Sparse villages with ridicolous distance in between. You spawn in a village and that might turn out as a bonus, but finding the next one could be challenging.
 
 Make Forestry Beehives great again: Rare beehive spawns with a bit more distance in between
 
@@ -18,7 +18,7 @@ Mod reliability: many of the best mods for Minecraft 1.12.2 in their final and m
 
 Small Server economy: ItemShop with physical currency(coins) and virtual currency(FTBMoney). Many possibilities for Quest automation via FTBQuests.
 
-Ambience&Animations: New Animations and Ambience mods for smooth & immersive surroundings
+Ambience&Animations: New Animations and Ambience mods for smooth & immersive surroundings.
 
 Fixed Monster AI and additional Mob effects for a better fighting experience than vanilla.
 

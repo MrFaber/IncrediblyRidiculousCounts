@@ -1,5 +1,5 @@
 # Incredibly Ridiculous Counts v1.0 Open Beta
-IRC is a new 1.12.2 Minecraft Modpack Project, which aims to be a kitchensink modpack with the temperament of a skyblock. It's as customized and as individual as a one-man-project can get.
+IRC is a new 1.12.2 Minecraft Modpack Project, which aims to be a kitchensink modpack with the temperament of a skyblock. It's as customized and as individual as a one-man-project can get.The pack started with a bad idea in the very end of december and has a few hundred hours of work put to it until now(09/03/2022).
 
 FEATURES:
 Questing: Small chained, consistent and challenging Questline with almost absurd item-demands to complete (e.g. 150k Cobble) (implemented via FTBQuests)

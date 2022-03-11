@@ -10,7 +10,7 @@ Bring the Mine back in Minecraft: Less ores spawn in worldgen, you won’t be ov
 
 Make Villages great again: Sparse villages with ridicolous distance in between. You spawn in a village and that might turn out to be a bonus, but finding the next one could be challenging.
 
-Make Forestry Beehives great again: Rare beehive spawns with a bit more distance in between
+Make Forestry Beehives great again: Rare beehive spawns with more distance in between
 
 Mod variability: a few brillant insider mods from the depths of curseforge, most people have never noticed
 
